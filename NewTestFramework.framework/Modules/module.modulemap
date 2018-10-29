@@ -1,0 +1,4 @@
+framework module NewTestFramework {
+  header "NewTestFramework-Swift.h"
+  requires objc
+}
