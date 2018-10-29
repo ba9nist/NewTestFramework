@@ -4,7 +4,7 @@ s.name               = "NewTestFramework"
 #2.
 s.version            = "0.1.0"
 #3.
-s.summary         = "Sort description of 'YLogging' framework"
+s.summary         = "Sort description of 'NewTestFramework' framework"
 #4.
 s.homepage        = "https://github.com/ba9nist/NewTestFramework"
 #5.
