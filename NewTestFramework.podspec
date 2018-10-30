@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 #1.
 s.name               = "NewTestFramework"
 #2.
-s.version            = "0.1.0"
+s.version            = "0.1.1"
 #3.
 s.summary         = "Sort description of 'NewTestFramework' framework"
 #4.
